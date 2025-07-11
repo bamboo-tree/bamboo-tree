@@ -1,5 +1,6 @@
 # 👋 Hi there! I'm Maciej
 
+
 🎓 I'm a Computer Science student with a passion for building small projects, exploring new technologies, and continuously improving my skills. I enjoy solving real-world problems through code and learning by doing.
 
 ---
@@ -36,19 +37,20 @@
 
 ## 📚 What I'm Working On
 
-- Building small full-stack web applications  
-- Experimenting with microcontrollers and embedded systems (Arduino)  
-- Learning more about backend development and DevOps practices  
-- Practicing competitive programming and data structures & algorithms  
+- Developing low-level programming skills in C
+- Improving my MERN stack proficiency
+- Expanding knowledge of algorithms for solving real-life problems
 
 ---
 
 ## 🚀 Goals
 
 - Gain real-world experience through internships and freelance projects  
-- Master modern full-stack development (MERN / LAMP stack)  
-- Contribute to open-source projects  
-- Learn cloud platforms like AWS and CI/CD pipelines  
+- Master modern full-stack development (MERN / LAMP stack)
+- Sudoku generator and solver
+- Full-stack web app to track and analyze learning progress
+- Android mobile app — a coffee journal for enthusiasts
+- (Long-term) HTTP server implementation in C
 
 ---
 
